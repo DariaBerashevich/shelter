@@ -1,1 +1,1 @@
-[shelter](https://dariaberashevich.github.io/index.html)
+[shelter](https://dariaberashevich.github.io/shelter/)
